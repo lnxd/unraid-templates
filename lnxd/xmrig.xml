@@ -6,7 +6,6 @@
   <Overview>Containerised version of xmrig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Overview>
   <Description>Containerised version of xmrig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Description>
   <Network>bridge</Network>
-  </Networking>
   <Shell>sh</Shell>
   <Privileged>true</Privileged>
   <Category/>
