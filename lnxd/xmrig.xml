@@ -10,7 +10,7 @@
   <Privileged>false</Privileged>
   <Category/>
   <TemplateURL>false</TemplateURL>
-  <Support>https://forums.unraid.net/topic/104589-support-lnxd-phoenixminer-amd/</Support>
+  <Support>https://forums.unraid.net/topic/105051-support-lnxd-xmrig/</Support>
   <DonateLink>https://github.com/lnxd</DonateLink>
   <DonateText>If you like my work please consider donating.</DonateText>
   <Icon>https://raw.githubusercontent.com/lnxd/docker-xmrig/main/xmrig-logo.png</Icon>
