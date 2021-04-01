@@ -7,7 +7,7 @@
   <Description>Containerised version of xmrig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Description>
   <Network>bridge</Network>
   <Shell>sh</Shell>
-  <Privileged>true</Privileged>
+  <Privileged>false</Privileged>
   <Category/>
   <TemplateURL>false</TemplateURL>
   <Support>https://forums.unraid.net/topic/104589-support-lnxd-phoenixminer-amd/</Support>
