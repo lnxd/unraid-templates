@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>xmrig</Name>
+  <Name>XMRig</Name>
   <Repository>lnxd/xmrig:latest</Repository>
   <Registry>https://hub.docker.com/r/lnxd/xmrig</Registry>
-  <Overview>Containerised version of xmrig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Overview>
-  <Description>Containerised version of xmrig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Description>
+  <Overview>Containerised version of XMRig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Overview>
+  <Description>Containerised version of XMRig for CPU Mining. Helps turn your Unraid server into a monero / cryptocurrency mining rig.</Description>
   <Network>bridge</Network>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
