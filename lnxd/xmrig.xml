@@ -8,7 +8,7 @@
   <Network>bridge</Network>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Category/>
+  <Category>Crypto:</Category>
   <TemplateURL>false</TemplateURL>
   <Support>https://forums.unraid.net/topic/105051-support-lnxd-xmrig/</Support>
   <DonateLink>https://github.com/lnxd</DonateLink>
